@@ -3,3 +3,5 @@ __pycache__/
 venv/
 .vscode/
 teacher_book_ml/
+book_ml/handson-ml1
+book_ml/handson-ml2
